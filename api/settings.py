@@ -26,7 +26,7 @@ SECRET_KEY = '4z8op9^*7&6aa)^p87y5bnetss)nkyb#@ooi688p0taxkf63^-'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'api.jon.network',
+    'ravencoin.herokuapp.com',
 ]
 
 
