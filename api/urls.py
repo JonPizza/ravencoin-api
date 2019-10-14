@@ -20,4 +20,5 @@ import api.views as views
 
 urlpatterns = [
     path('', views.index),
+    path('rvn-usd/', views.rvn_usd),
 ]
