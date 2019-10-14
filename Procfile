@@ -1,1 +1,1 @@
-web: gunicorn showtime.wsgi --log-file -
+web: gunicorn api.wsgi --log-file -
